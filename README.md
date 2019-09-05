@@ -2,3 +2,4 @@
 使用typeScript 实现axios
 
 :/play inconceivable:
+:bug:
