@@ -1,5 +1,5 @@
 {
-  "name": "ts-axios-pp",
+  "name": "ts-axios-sy",
   "version": "0.1.5-alpha-3",
   "description": "",
   "keywords": [],
@@ -9,10 +9,10 @@
   "files": [
     "dist"
   ],
-  "author": "js52 <js52@js52.c>",
+  "author": "sy",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:yoonasy/ts-axios.git"
   },
   "license": "MIT",
   "engines": {
